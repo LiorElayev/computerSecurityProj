@@ -2,7 +2,7 @@
 
 *This project is a customer managemet web application and REST API for a communication company.
 
-*By design, this application is vulnerable for XSS attacks and SQLi attacks.
+*By design, this application is vulnerable for XSS attacks and SQL injection attacks.
 
 
 <br />
@@ -33,7 +33,7 @@ $ npm install
 <br />
 -Database initialization:
 
-*Go to /api directory from the terminal and run the follwoing command
+*Go to /api directory from the terminal and run the follwoing command:
 
 $ npm run init
 

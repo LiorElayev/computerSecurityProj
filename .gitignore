@@ -1,0 +1,5 @@
+#cert files
+/api/certs
+/client/certs
+#node modules
+**/node_modules
